@@ -1,4 +1,4 @@
-<img src="d:\projects\GitHub\YakovAkk\image.PNG">
+![Header](https://github.com/YakovAkk/YakovAkk/blob/main/assets/image.PNG)
 
 
 # Hello 👋
