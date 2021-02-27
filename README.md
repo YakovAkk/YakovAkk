@@ -1,4 +1,22 @@
-### Hi there 👋
+<img src="d:\projects\GitHub\YakovAkk\image.PNG">
+
+
+# Hello 👋
+
+## My name is Yakov
+## I beginner c++/c# developer  
+## I  learn .Net framework
+## I  work on the project until it is uploaded to the github, but soon it will be here)
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **YakovAkk/YakovAkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
