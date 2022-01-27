@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasko</h1>
-<h3 align="center">I'm Junior C# / Angular + TS develover from Vinnitsya</h3>
+<h3 align="center">I'm Junior c# / Angular + TS develover from Vinnitsya</h3>
+
+- 🌱 I’m currently learning **Anular , TS and Asynchronous Programming**
+
+- 💬 Ask me about **C# and patterns like MVC and repository**
+
+- 📫 How to reach me **james.yasko.2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
