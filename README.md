@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasko</h1>
+<h1 align="center">Hi 👋, I'm Yakov</h1>
 <h3 align="center">I'm Junior c# / Angular + TS develover from Vinnitsya</h3>
 
 - 🌱 I’m currently learning **Anular , TS and Asynchronous Programming**
