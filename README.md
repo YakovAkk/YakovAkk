@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Anular , TS and C#**
 
-- 💬 Ask me about **C# and patterns like MVC or Factoru Methood**
+- 💬 Ask me about **C# and patterns like MVC or Factory Methood**
 
 - 📫 How to reach me **james.yasko.2002@gmail.com**
 
