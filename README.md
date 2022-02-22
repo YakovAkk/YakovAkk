@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yakov</h1>
 <h3 align="center">I'm Junior C# / Angular + TS develover from Vinnitsya</h3>
 
-- 🌱 I’m currently learning **Anular , TS and Asynchronous Programming**
+- 🌱 I’m currently learning **Anular , TS and C#**
 
-- 💬 Ask me about **C# and patterns like MVC and repository**
+- 💬 Ask me about **C# and patterns like MVC or Factoru Methood**
 
 - 📫 How to reach me **james.yasko.2002@gmail.com**
 
