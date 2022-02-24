@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yakov</h1>
 <h3 align="center">I'm Junior C# / Angular + TS develover from Vinnitsya</h3>
 
-- 🌱 I’m currently learning **Anular , TS and C#**
+- 🌱 I’m currently learning **Angular , TS and C#**
 
 - 💬 Ask me about **C# and patterns like MVC or Factory Methood**
 
