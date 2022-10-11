@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasko</h1>
-<h3 align="center">I'm C# / Angular + TS develover from Vinnitsya</h3>
+<h3 align="center">I'm C# / React develover from Vinnitsya</h3>
 
 - 🌱 I’m currently learning **React , JS , TS and Microservice architecture**
 
